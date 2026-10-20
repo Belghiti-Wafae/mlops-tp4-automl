@@ -1,0 +1,15 @@
+
+# Environnement et caches Python
+.venv/
+__pycache__/
+*.pyc
+
+# Donnees generees
+data/
+
+# MLflow local
+mlflow.db
+mlartifacts/
+
+# Fichiers systeme
+.DS_Store

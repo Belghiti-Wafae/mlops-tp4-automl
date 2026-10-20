@@ -1,0 +1,7 @@
+
+flaml[automl]
+mlflow
+scikit-learn
+pandas
+numpy
+matplotlib
